@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Sandeep Kumar Mishra</sub>
+  <sub>Made with ❤️ by Sandeep Kumar Mishra and Ishu pariyar</sub>
 </div>
