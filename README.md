@@ -25,9 +25,9 @@
 ## 🖥️ Tech Stack
 
 - **Frontend**: React, Vite
-- **Styling**: CSS
-- **Backend**: (Planned) Node.js, Express
-- **Data Sources**: (Planned) APIs from major hardware vendors
+- **Styling**: CSS, [Anime.js](https://animejs.com/) for smooth UI animations
+- **Backend**: Node.js, Express (planned for future releases)
+- **Data Sources**: APIs from major hardware vendors (planned)
 
 ## 📦 Installation
 
@@ -50,6 +50,15 @@ npm run dev
 1. Open your browser and go to `http://localhost:5173` (default Vite port).
 2. Explore GPU prices, build your PC, and manage your wishlist.
 3. Customize your build and compare hardware easily.
+4. Enjoy smooth UI animations powered by Anime.js.
+
+## ✨ Extra Feature: PC Part Comparison
+
+Easily compare different PC parts (GPUs, CPUs, RAM, etc.) side-by-side to find the best fit for your build. The comparison tool provides:
+- Detailed specs and benchmarks
+- Price history and trends
+- User ratings and reviews
+- Compatibility suggestions
 
 ## 🤝 Contributing
 
@@ -61,6 +70,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+> **Note:** This project is currently **under construction** for 1 month (expected completion: August 2025). Major features and improvements are being actively developed.
+
+## 🗓️ Timeline
+
+- **July 2025:** Initial setup, UI/UX design, integration of Anime.js for animations
+- **Mid July 2025:** Implementation of GPU price tracking and PC part comparison tool
+- **Late July 2025:** Backend setup with Node.js and Express (planned)
+- **August 2025:** Final testing, documentation, and public release
+
 <div align="center">
-  <sub>Made with ❤️ by Sandeep Kumar Mishra and Ishu pariyar</sub>
+  <sub>Made with ❤️ by Sandeep Kumar Mishra</sub>
 </div>
